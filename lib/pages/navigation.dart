@@ -1,8 +1,8 @@
-import 'package:find_flames_ui/pages/home.dart';
-import 'package:find_flames_ui/pages/searchNet.dart';
+import 'package:find_flames_ui/pages/Homepage/home.dart';
+import 'package:find_flames_ui/pages/Search/searchNet.dart';
 import 'package:flutter/material.dart';
-import 'package:find_flames_ui/pages/calendar.dart';
-import 'package:find_flames_ui/pages/message.dart';
+import 'package:find_flames_ui/pages/Calendar/calendar.dart';
+import 'package:find_flames_ui/pages/Message/message.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class Navigation extends StatefulWidget {

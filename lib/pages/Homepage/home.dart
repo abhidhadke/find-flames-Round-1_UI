@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:find_flames_ui/widgets/scrollView.dart';
-import '../widgets/chatCard.dart';
-import '../widgets/search.dart';
+import 'components/chatCard.dart';
+import 'components/scrollView.dart';
+import 'components/search.dart';
 
 
 class HomePage extends StatefulWidget {

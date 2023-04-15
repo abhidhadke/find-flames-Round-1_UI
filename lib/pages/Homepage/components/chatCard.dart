@@ -1,4 +1,4 @@
-import 'package:find_flames_ui/widgets/themes.dart';
+import 'package:find_flames_ui/pages/Homepage/components/themes.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -47,7 +47,7 @@ class Chat extends StatelessWidget {
         ),
         subtitle: isTyping
             ? Text(
-                'Typing',
+                'Typing...',
                 style: typingTextStyle,
               )
             : Text(
